@@ -17,7 +17,7 @@ header
 
 .test03 .img_wrap img{height:100%}
 .test03 .img_wrap{margin-left:-2px}
-.test03 .swiper-slide{overflow:scroll}
+.test03 .swiper-slide{overflow:scroll;font-size:0;}
 
 .test4 label{display:none}
 .test4 input{width:100%;}

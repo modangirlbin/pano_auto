@@ -49,7 +49,8 @@
       case "touchend":   type="mouseup"; break;
       default: return;
     }
-     
+    
+    //속도조정
     var simulatedEvent = document.createEvent("MouseEvent");
     var mult = 3;
     
